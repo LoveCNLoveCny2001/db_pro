@@ -1,2 +1,7 @@
-# db_pro
-æ•°æ®åº“å­¦ä¹ è¿‡ç¨‹ä¸­çš„é¡¹ç›®
+# db_pro1
+
+Õâ¸öÏîÄ¿ÊÇ´ó¶þÏÂSCU ztqÀÏÊ¦²¼ÖÃµÄµÚÒ»¸öÐ¡ÐÍ×÷Òµ,ÔÚä¯ÀÀÆ÷±¾µØ¶Ë¿ÚÊµÏÖÍ¨¹ý¹Ø¼ü´Ê²éÑ¯Ð¡×é³ÉÔ±
+
+Ô­Àí: 
+- ÀûÓÃservlet»ñÈ¡http request,²¢½âÎö²ÎÊý;**
+- ÀûÓÃJDBCÁ¬½ÓMysql;**
